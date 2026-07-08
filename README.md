@@ -2,7 +2,7 @@
 
 A simple Terraform module to create an AWS S3 bucket.
 
-## Usage v1.1.3
+## Usage v1.1.4
 
 ```hcl
 module "s3_bucket" {
